@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.lmbclub.org/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.lmbclub.org/wiki/feed.php">
+        <title>LMBC Management</title>
+        <description></description>
+        <link>http://www.lmbclub.org/wiki/</link>
+        <image rdf:resource="http://www.lmbclub.org/wiki/lib/tpl/default/images/favicon.ico" />
+       <dc:date>2012-02-26T17:35:37-05:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=board_of_governors&amp;rev=1228923751&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=canvas_recent_new_members&amp;rev=1305332151&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=committee_chairs&amp;rev=1231966116&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=datebatch&amp;rev=1322036843&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=finances&amp;rev=1227108742&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=kent_sasaki&amp;rev=1305332151&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=oakland_marathon&amp;rev=1305332152&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=party_venues&amp;rev=1223465969&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=past_presidents_lunch_3_21_2009&amp;rev=1237601210&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=pic&amp;rev=1305332152&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=speaker_guidelines&amp;rev=1231017141&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=speakers_list_and_calendar&amp;rev=1330042086&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=start&amp;rev=1326573430&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=test_calendar&amp;rev=1305332153&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.lmbclub.org/wiki/lib/tpl/default/images/favicon.ico">
+        <title>LMBC Management</title>
+        <link>http://www.lmbclub.org/wiki/</link>
+        <url>http://www.lmbclub.org/wiki/lib/tpl/default/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=board_of_governors&amp;rev=1228923751&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2008-12-10T10:42:31-05:00</dc:date>
+        <title>board_of_governors</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=board_of_governors&amp;rev=1228923751&amp;do=diff</link>
+        <description>2009 Board of Governors
+
+	*  Charlie Plock - President
+	*  Brad Gill - Vice President
+	*  Rob Stewart - Past President
+	*  Dan Brinkman - Executive Director
+	*  Paul Johnson
+	*  Paul Witwer
+	*  Loren Kertz
+	*  Joy Somerville
+	*  Sara Kidder
+	*  Dan Altemus
+	*  Karl Osterloh
+	*  FIXME</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=canvas_recent_new_members&amp;rev=1305332151&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-05-13T20:15:51-05:00</dc:date>
+        <title>canvas_recent_new_members</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=canvas_recent_new_members&amp;rev=1305332151&amp;do=diff</link>
+        <description>Recent new members - what are we doing right?
+
+	*  Geoff Kline, Pres 2010
+	*  Jose Guzman, VP 2010
+	*  Charlie Plock, Pres 2009
+	*  Rob Stewart, Pres 2008
+	*  Ron Krause of the Programs Committee
+	*  Dan Brinkman, Executive Secretary and Treasurer
+	*  Hunter McCreary, Secretary</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=committee_chairs&amp;rev=1231966116&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2009-01-14T15:48:36-05:00</dc:date>
+        <title>committee_chairs</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=committee_chairs&amp;rev=1231966116&amp;do=diff</link>
+        <description>Committee Chairs
+
+	*  As people accept the job for 2009, they will be entered in. Easier format as of 1/14/2009.
+Year201020092008 Programs VP Joe Guzman VP Geoff Kline VP Charlie Plock Annual Dinner aka Prez PartyCharlie PlockRob StewartBob Castle Attendance Don Beck  Bob Payne AwardsStephen Douglas Geoff Kline  Geoff Kline Moose BBQ Robert PimentelRobert Pimentel Robert Pimentel Anniversaries    Membership Billy Wilkes Billy WilkesBilly Wilkes  BirthdaysHunter McCrearyHunter McCreary Hunter McC…</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=datebatch&amp;rev=1322036843&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-11-23T03:27:23-05:00</dc:date>
+        <title>datebatch</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=datebatch&amp;rev=1322036843&amp;do=diff</link>
+        <description>11/24/2011
+11/25/2011
+11/26/2011
+11/27/2011
+11/28/2011
+11/29/2011
+11/30/2011
+12/1/2011
+12/2/2011
+12/3/2011
+12/4/2011
+12/5/2011
+12/6/2011
+12/7/2011
+12/8/2011
+12/9/2011
+12/10/2011
+12/11/2011
+12/12/2011
+12/13/2011
+12/14/2011
+12/15/2011
+12/16/2011
+12/17/2011
+12/18/2011
+12/19/2011
+12/20/2011
+12/21/2011
+12/22/2011
+12/23/2011
+12/24/2011
+12/25/2011
+12/26/2011
+12/27/2011
+12/28/2011
+12/29/2011
+12/30/2011
+12/31/2011
+01/1/2012
+01/2/2012
+01/3/2012
+01/4/2012
+01/5/2012
+01/6/2012
+01/7/2012</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=finances&amp;rev=1227108742&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2008-11-19T10:32:22-05:00</dc:date>
+        <title>finances</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=finances&amp;rev=1227108742&amp;do=diff</link>
+        <description>Current Topics</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=kent_sasaki&amp;rev=1305332151&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-05-13T20:15:51-05:00</dc:date>
+        <title>kent_sasaki</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=kent_sasaki&amp;rev=1305332151&amp;do=diff</link>
+        <description>Kent Sasaki Bio
+
+Kent Sasaki is President-Elect of the San Francisco Section of ASCE. He is a structural engineer and Principal of Wiss, Janney, Elstner Associates (WJE), a nationwide engineering/architectural/materials science firm. Kent has 18 years of experience investigating structures in the U.S. and internationally. He has expertise in earthquake engineering and failure investigations. He recently performed the damage assessment for the MacArthur Maze fire and collapse. For the last 10 yea…</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=oakland_marathon&amp;rev=1305332152&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-05-13T20:15:52-05:00</dc:date>
+        <title>oakland_marathon</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=oakland_marathon&amp;rev=1305332152&amp;do=diff</link>
+        <description>2010 Oakland Running Festival / Marathon
+
+&lt;http://www.oaklandmarathon.com&gt;
+
+	*  Sunday, March 28th, 8am - 2pm in front of Children's Fairyland
+
+ --- Chuck Plock 2010/03/04 14:53 Currently collaborating with Jessica Martin from CFL to support the marathon water stop in front of CFL entrance (Grand and Bellevue).  Rotarian Fred Bowe is our Race contact:  fbowe@comcast.net  (510) 917-1521
+Map Grand Ave, Bellevue at Park View</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=party_venues&amp;rev=1223465969&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2008-10-08T07:39:29-05:00</dc:date>
+        <title>party_venues</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=party_venues&amp;rev=1223465969&amp;do=diff</link>
+        <description>Snow Building - Oakland Zoo
+
+	*  Paula  tel: 510-632-9525 ext 181  fax: 510-635-5719
+
+ --- Chuck Plock 2010/04/06 16:07 per several people, following renovations they now only allow caterers from an approved list.
+
+Aquatic Center
+
+	*  Large upstairs hall, free parking. Used many times for Annual Party (honoring retiring President).</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=past_presidents_lunch_3_21_2009&amp;rev=1237601210&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2009-03-20T22:06:50-05:00</dc:date>
+        <title>past_presidents_lunch_3_21_2009</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=past_presidents_lunch_3_21_2009&amp;rev=1237601210&amp;do=diff</link>
+        <description>Past Presidents Lunch 3/21/2009
+
+ --- Charlie Plock 2009/02/10 12:35  Set a date for this traditional “meeting of the minds” with LMBC Past Presidents. The date is 3/21/2009, and some were notified by email. Decided on BBQ at my house. Pimentel to assist with food.</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=pic&amp;rev=1305332152&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-05-13T20:15:52-05:00</dc:date>
+        <title>pic</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=pic&amp;rev=1305332152&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=speaker_guidelines&amp;rev=1231017141&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2009-01-03T16:12:21-05:00</dc:date>
+        <title>speaker_guidelines</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=speaker_guidelines&amp;rev=1231017141&amp;do=diff</link>
+        <description>Speaker Guidelines
+
+Club Bylaws
+
+The Club has bylaws which are intended to govern appropriate Speakers and topics:
+
+	*  No sales pitches (past exceptions made for authors)
+	*  No political candidates or other campaigning (past exceptions made for voter educations)
+	*  No going over the alloted time. (Speakers may arrange to start early, but must stop by 8:30am, no exceptions)</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=speakers_list_and_calendar&amp;rev=1330042086&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-02-23T19:08:06-05:00</dc:date>
+        <title>speakers_list_and_calendar</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=speakers_list_and_calendar&amp;rev=1330042086&amp;do=diff</link>
+        <description>Speakers and Calendar
+
+There will be 3 statuses for all entries
+
+	*  PROPOSED by member or committee member
+	*  APPROVED by President , Vice President, or IPP Rob Stewart
+	*  CONFIRMED by C.O.D or committee member - a letter example is available: 
+
+ENTER new speakers as PROPOSED until APPROVED by President or V.P., then CONFIRMED
+Call or email President and V.P. as well for quick response.</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=start&amp;rev=1326573430&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-01-14T15:37:10-05:00</dc:date>
+        <title>start</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=start&amp;rev=1326573430&amp;do=diff</link>
+        <description>Lake Merrit Breakfast Club
+
+We're going to need some pages to start with:
+
+===== President =====William W Wilkes
+
+Committee Chairs
+
+Board of Governors
+
+Past Presidents Lunch 3/21/2009
+
+===== Vice-President =Steve E Hanson
+
+speakers_list_and_calendar
+
+2008/current past speakers archive</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=test_calendar&amp;rev=1305332153&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-05-13T20:15:53-05:00</dc:date>
+        <title>test_calendar</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=test_calendar&amp;rev=1305332153&amp;do=diff</link>
+        <description>sport
+
+	*  1/3/2008 21:39
+	*  1/4/2008 20:09
+	*  1/5/2008 4:09
+	*  1/5/2008 19:27
+	*  1/6/2008 13:40
+	*  1/10/2008 21:14
+	*  1/11/2008 21:10
+	*  1/12/2008 5:06
+	*  1/12/2008 9:46
+	*  1/12/2008 11:29
+	*  1/12/2008 18:44
+	*  1/18/2008 22:54
+	*  1/19/2008 1:50
+	*  1/19/2008 5:24
+	*  1/19/2008 6:48
+	*  1/19/2008 8:54
+	*  1/19/2008 21:24
+	*  1/20/2008 2:19
+	*  1/20/2008 7:39
+	*  1/22/2008 3:44
+	*  1/25/2008 22:44
+	*  1/26/2008 2:29
+	*  1/26/2008 6:44
+	*  1/26/2008 14:24
+	*  1/26/2008 21:08
+	*  1/27/2…</description>
+    </item>
+</rdf:RDF>

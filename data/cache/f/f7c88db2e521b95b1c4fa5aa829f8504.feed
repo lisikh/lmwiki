@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.mtneagle.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.mtneagle.com/wiki/feed.php">
+        <title>LMBC Management</title>
+        <description></description>
+        <link>http://www.mtneagle.com/wiki/</link>
+        <image rdf:resource="http://www.mtneagle.com/wiki/lib/images/favicon.ico" />
+       <dc:date>2008-05-09T23:23:25-05:00</dc:date>
+        <items>
+            <rdf:Seq>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.mtneagle.com/wiki/lib/images/favicon.ico">
+        <title>LMBC Management</title>
+        <link>http://www.mtneagle.com/wiki/</link>
+        <url>http://www.mtneagle.com/wiki/lib/images/favicon.ico</url>
+    </image>
+</rdf:RDF>

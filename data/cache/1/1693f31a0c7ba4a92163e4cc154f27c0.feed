@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.lmbclub.org/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.lmbclub.org/wiki/feed.php">
+        <title>LMBC Management</title>
+        <description></description>
+        <link>http://www.lmbclub.org/wiki/</link>
+        <image rdf:resource="http://www.lmbclub.org/wiki/lib/images/favicon.ico" />
+       <dc:date>2008-01-06T21:10:12-08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=speakers_list_and_calendar&amp;rev=1199582268&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=party_venues&amp;rev=1199563392&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.lmbclub.org/wiki/doku.php?id=start&amp;rev=1199563088&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.lmbclub.org/wiki/lib/images/favicon.ico">
+        <title>LMBC Management</title>
+        <link>http://www.lmbclub.org/wiki/</link>
+        <url>http://www.lmbclub.org/wiki/lib/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=speakers_list_and_calendar&amp;rev=1199582268&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2008-01-05T17:17:48-08:00</dc:date>
+        <dc:creator>Chuck Plock</dc:creator>
+        <title>speakers_list_and_calendar</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=speakers_list_and_calendar&amp;rev=1199582268&amp;do=diff</link>
+        <description>Speakers and Calendar
+
+	*  1/10/2008  Rob Stewart, state of the club
+	*  1/12/2008  President's Party - Bellevue Club
+	*  1/24/2008  Alameda Bank Founder
+	*  1/17/2008  TBD
+	*  1/24/2008  TBD
+	*  1/31/2008  TBD
+	*  2/7/2008  TBD
+	*  2/14/2008  TBD
+	*  2/21/2008  Crab Feed Dinner - No Meeting
+	*  2/28/2008  TBD
+	*  3/6/2008  TBD
+	*  3/13/2008  TBD
+	*  3/20/2008  TBD
+	*  3/27/2008  TBD</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=party_venues&amp;rev=1199563392&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2008-01-05T12:03:12-08:00</dc:date>
+        <dc:creator>Chuck Plock</dc:creator>
+        <title>party_venues - created</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=party_venues&amp;rev=1199563392&amp;do=diff</link>
+        <description>Snow Building - Oakland Zoo
+
+	*  Paula  tel: 510-632-9525 ext 181  fax: 510-635-5719
+
+ Aquatic Center
+
+	*  Unordered List Item
+
+ Garden Center
+
+	*  ?
+
+ Bellevue Club
+
+	*  ?</description>
+    </item>
+    <item rdf:about="http://www.lmbclub.org/wiki/doku.php?id=start&amp;rev=1199563088&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2008-01-05T11:58:08-08:00</dc:date>
+        <dc:creator>Chuck Plock</dc:creator>
+        <title>start</title>
+        <link>http://www.lmbclub.org/wiki/doku.php?id=start&amp;rev=1199563088&amp;do=diff</link>
+        <description>We're going to need some pages to start with:
+
+President
+
+Rob Stewart
+
+Committee Chairs
+
+Vice-President
+
+ Speakers list and calendar
+
+Executive Director
+
+ Finances
+
+Operations
+
+Party Venues</description>
+    </item>
+</rdf:RDF>
